@@ -14,7 +14,7 @@ echo "# Install IKEV2 VPN for CentOS6.x (32bit/64bit) or Ubuntu"
 echo "# Intro: http://quericy.me/blog/699"
 echo "#"
 echo "# Author:quericy"
-echo "#"
+echo "# Edit:hailuodev"
 echo "#############################################################"
 echo ""
 
